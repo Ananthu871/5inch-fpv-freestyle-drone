@@ -27,7 +27,7 @@ Built a 6S freestyle FPV drone from scratch for responsive control, stable fligh
 | GPS | HGLRC M10 GPS |
 | Battery | CNHL 6S LiPo |
 | FPV Camera / VTX | DJI O4 Air Unit |
-| Goggles | DJI Goggles |
+| Goggles | DJI N3 Goggles |
 
 ---
 
