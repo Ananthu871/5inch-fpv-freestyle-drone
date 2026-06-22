@@ -168,3 +168,9 @@ Successfully built and tuned a fully functional 5-inch FPV freestyle drone with 
 - Custom TPU mounts
 - Long-range optimization
 - Autonomous waypoint navigation
+
+## Build Photos
+
+![Front View](drone_front.jpg)
+![Top View](drone_top.jpg)
+![Wiring](wiring.jpg)
