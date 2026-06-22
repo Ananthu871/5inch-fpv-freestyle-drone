@@ -171,6 +171,6 @@ Successfully built and tuned a fully functional 5-inch FPV freestyle drone with 
 
 ## Build Photos
 
-![Front View](drone_front.jpg)
+![Front View](https://github.com/Ananthu871/5inch-fpv-freestyle-drone/blob/main/WhatsApp%20Image%202026-06-22%20at%2012.51.23%20PM.jpeg)
 ![Top View](drone_top.jpg)
 ![Wiring](wiring.jpg)
